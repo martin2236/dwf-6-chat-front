@@ -1,0 +1,22 @@
+{
+  "name": "cap-5-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel ./src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.4.1",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@vaadin/router": "^1.7.4",
+    "firebase": "^9.6.11",
+    "lodash": "^4.17.21"
+  }
+}
